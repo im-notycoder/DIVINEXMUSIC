@@ -23,7 +23,7 @@ BOT_NAME = getenv("BOT_NAME", "𝑫𝒚𝒏𝒂𝒎𝒊𝒄 ✗ 𝑴𝒖𝒔𝒊
 ASSUSERNAME = getenv("ASSUSERNAME", "𝑫𝒚𝒏𝒂𝒎𝒊𝒄 ✗ 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕")
 
 #❖ Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7717606847:AAE0ByhE7XmYZl02rk-iytx3q5jBNxKkXUA")
+BOT_TOKEN = getenv("BOT_TOKEN", "7717606847:AAHPt9YCZ5XBKCMvER5aqSu06xGg-6FQ1LU")
 
 #❖ Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Mafia:Mafia@mafia.wvuzxgl.mongodb.net/?retryWrites=true&w=majority")
