@@ -23,7 +23,7 @@ BOT_NAME = getenv("BOT_NAME", "𝑫𝒚𝒏𝒂𝒎𝒊𝒄 ✗ 𝑴𝒖𝒔𝒊
 ASSUSERNAME = getenv("ASSUSERNAME", "𝑫𝒚𝒏𝒂𝒎𝒊𝒄 ✗ 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕")
 
 #❖ Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7717606847:AAHPt9YCZ5XBKCMvER5aqSu06xGg-6FQ1LU")
+BOT_TOKEN = getenv("BOT_TOKEN", "7717606847:AAEfG3DctNNxPfjMZiBx-avZdhC1yJELIuE")
 
 #❖ Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Mafia:Mafia@mafia.wvuzxgl.mongodb.net/?retryWrites=true&w=majority")
@@ -76,7 +76,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 #❖ Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQGkyqwALT2yvWhWOBduTpXEnCv6ePzfCsZ3xQHN_15N9_INAeOHd9Qx464Hrw2RzKmm5b8QyTQt2-nhaFwJ4Lgd8zx0lHDtd-y8KAvKTVEP_NJIrGE8TsoFDAFtiHKFLjb0WG3jEcMkonPCr2X38Q6zC2f5Lyhwnf4E5PevJ9Pg5_ukwnfUaso2_Q47JhbnIsgerAwFYuoDMbYQarfjZR6AC-XLKI7lGGkkreXzz4N3zpVNFBe6AXK7m0UZRbR7xePZ58xrodVobzNv2c-FlJGjVrGtsF09DUMLF8Q7wdzk_UBmV4ZlWsIleWz2D3SXFMomKWQw9Ags5n7JVkG9f9M3imYh6gAAAAHl3gl2AA")
+STRING1 = getenv("STRING_SESSION", "BQGkyqwAnALgDosz-rn4D_HZ-ZSB4llNpzXQ28BF0br-7JAgaYqQJWy8kuhO_4tZdN4HllO-obClMKig-ggIyU2E-WMwAtGiGw2YfNLdZl9oxJ9aV7D99Ih3UT8DOhb-CT6AHji1OexxnEDeyS_fp42es0d2ZBhMojZuQ7G4vWovurhMff6l4pOZtweOTLHK6Cpm4VysxNIOLAySwxudmZMLRXoqj8CxiuN8TQ-S2vWnf-wxPEnQHx9j5Ag4_32Ky9JpIbsDiubs48LAeh5bu4BeGAsozz9WHldpDRjOn0hwOGHnl47dODdtoHIht3dsOf1tVdaBxMXAYBaJYZXTSgAHwN9S7AAAAAHl3gl2AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
